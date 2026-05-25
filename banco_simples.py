@@ -30,3 +30,4 @@ print(cursor.fetchall())
 
 # Fechar conexão
 conexao.close()
+import sqlite3
